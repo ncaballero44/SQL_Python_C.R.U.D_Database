@@ -1,0 +1,14 @@
+Vendor
+1017, 'test14', 35
+
+Order
+10067,1007,9002231,'2020/09/23','2020/10/09'
+
+LineNumber
+10061,5,9967,0.96,604
+
+Product
+9988,1001,'Airframe fasteners','Airframe fasteners by Hulkey',4.66
+
+SalesRep
+9000000, 'Allie Smith', '810-567-2367', 'allieS@hulkeyfasteners.com', 1001
